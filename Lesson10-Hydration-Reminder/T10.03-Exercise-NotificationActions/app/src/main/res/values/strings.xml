@@ -23,4 +23,7 @@
     <string name="charging_reminder_notification_title">Device Charging - Where\'s that water?</string>
     <string name="charging_reminder_notification_body">There\'s never a better time to drink water than when you know your phone is charging. Drink up!</string>
 
+    <string name="increment_water_action_title">Log Water</string>
+    <string name="dismiss_notification_action_title">Dismiss</string>
+
 </resources>
